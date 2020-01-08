@@ -1,0 +1,28 @@
+name,description,search,link,available
+CoordinateCleaner,Automated Cleaning of Occurrence Records from Biological Collections,occurrence,https://cran.r-project.org/web/packages/CoordinateCleaner/index.html,CRAN
+distdrawr,Download Occurrence Data of Vascular Plants in Germany from the FLORKART Database,occurrence,https://cran.r-project.org/web/packages/distdrawr/index.html,CRAN
+eoR,Data Management Package (Exposure and Occurrence Data in R),occurrence,https://cran.r-project.org/web/packages/eoR/index.html,CRAN
+rangeBuilder,"Occurrence Filtering, Geographic and Taxonomic Standardization and Generation of Species Range Polygons",occurrence,https://cran.r-project.org/web/packages/rangeBuilder/index.html,CRAN
+scrubr,Clean Biological Occurrence Records,occurrence,https://cran.r-project.org/web/packages/scrubr/index.html,CRAN
+spocc,Interface to Species Occurrence Data Sources,occurrence,https://cran.r-project.org/web/packages/spocc/index.html,CRAN
+rvertnet,"Search 'Vertnet', a 'Database' of Vertebrate Specimen Records",records,https://cran.r-project.org/web/packages/rvertnet/index.html,CRAN
+BIEN,Tools for Accessing the Botanical Information and Ecology Network Database,database,https://cran.r-project.org/web/packages/BIEN/index.html,CRAN
+biolink,Create Hyperlinks to Biological Databases and Resources,database,https://cran.r-project.org/web/packages/biolink/index.html,CRAN
+helminthR,Access London Natural History Museum Host-Helminth Record Database,database,https://cran.r-project.org/web/packages/helminthR/index.html,CRAN
+KnowBR,Discriminating Well Surveyed Spatial Units from Exhaustive Biodiversity Databases,database,https://cran.r-project.org/web/packages/KnowBR/index.html,CRAN
+neotoma,Access to the Neotoma Paleoecological Database Through R,database,https://cran.r-project.org/web/packages/neotoma/index.html,CRAN
+paleobioDB,Download and Process Data from the Paleobiology Database,database,https://cran.r-project.org/web/packages/paleobioDB/index.html,CRAN
+rebird,R Client for the eBird Database of Bird Observations,database,https://cran.r-project.org/web/packages/rebird/index.html,CRAN
+rYoutheria,Access to the YouTheria Mammal Trait Database,database,https://cran.r-project.org/web/packages/rYoutheria/index.html,CRAN
+soilDB,Soil Database Interface,database,https://cran.r-project.org/web/packages/soilDB/index.html,CRAN
+taxizedb,Tools for Working with 'Taxonomic' Databases,database,https://cran.r-project.org/web/packages/taxizedb/index.html,CRAN
+vegdata,Access Vegetation Databases and Treat Taxonomy,database,https://cran.r-project.org/web/packages/vegdata/index.html,CRAN
+yatah,Yet Another TAxonomy Handler,taxonomy,https://cran.r-project.org/web/packages/yatah/index.html,CRAN
+taxa,Taxonomic Classes,taxonomic,https://cran.r-project.org/web/packages/taxa/index.html,CRAN
+taxize,Taxonomic Information from Around the Web,taxonomic,https://cran.r-project.org/web/packages/taxize/index.html,CRAN
+taxizedb,Tools for Working with 'Taxonomic' Databases,taxonomic,https://cran.r-project.org/web/packages/taxizedb/index.html,CRAN
+Taxonstand,Taxonomic Standardization of Plant Species Names,taxonomic,https://cran.r-project.org/web/packages/Taxonstand/index.html,CRAN
+WorldFlora,Standardize Plant Names According to World Flora Online Taxonomic Backbone,taxonomic,https://cran.r-project.org/web/packages/WorldFlora/index.html,CRAN
+flora,Tools for Interacting with the Brazilian Flora 2020,flora,https://cran.r-project.org/web/packages/flora/index.html,CRAN
+neotoma,Access to the Neotoma Paleoecological Database Through R,database,https://cran.r-project.org/web/packages/neotoma/index.html,CRAN
+occCite,Querying database aggregators and citing primary sources of resulting occurrence points ,NA,https://github.com/hannahlowens/occCite,github
